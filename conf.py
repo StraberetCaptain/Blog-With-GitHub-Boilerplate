@@ -39,6 +39,15 @@ external_links = [
         "name": "Bilibili",
         "url": "https://space.bilibili.com/1761554?from=search&seid=524068925455877553",
         "brief": "乱码乱码乱码啦"
+    },
+    {
+        "name": "有求必应箱",
+        "url": "http://www.popiask.cn/8Btjjn",
+        "brief": "popi2252588"
+    },
+    {
+        "name": "有问必答的回复在这里",
+        "url": "https://m.weibo.cn/6517142916/4522875904286610",
     }
 ]
 nav = [
