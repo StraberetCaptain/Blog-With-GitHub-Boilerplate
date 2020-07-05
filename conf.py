@@ -47,7 +47,7 @@ external_links = [
     },
     {
         "name": "有问必答的回复在这里",
-        "url": "https://m.weibo.cn/6517142916/4522875904286610",
+        "url": "https://m.weibo.cn/6517142916/4522875904286610"
     }
 ]
 nav = [
