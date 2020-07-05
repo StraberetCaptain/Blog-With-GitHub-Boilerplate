@@ -1,22 +1,20 @@
 ---
 layout: page
-title: 关于
+title: VJIN / V / JIN
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/07/05 06:01:00
 status: publish
-author: AlanDecode
+author: JINNKSHNV
 categories: 
-  - Maverick
-  - Dev
+  - VJIN
 tags: 
   - theme
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
-
-
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: taemtoeatjin@gmail.com
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Weibo：[虎抓板](https://www.weibo.com/u/6517142916)
+
+Bilibili：[乱码乱码乱码啦](https://space.bilibili.com/1761554?from=search&seid=524068925455877553)
