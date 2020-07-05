@@ -19,25 +19,26 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "我的个人博客"
+# 站点设置
+site_name = "虎抓板2号"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "熊猫小A"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2020-07-05T00:00-06:00"
+author = "StraberetCaptain"
+email = "taemtoeatjin@gmail.com"
+author_homepage = "https://www.straberrycaptain.com"
+description = "🐯🐹"
+key_words = ['Maverick', '虎抓板', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
+        "name": "Weibo",
+        "url": "https://www.weibo.com/u/6517142916",
+        "brief": "虎抓板1号"
+    },  
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Bilibili",
+        "url": "https://space.bilibili.com/1761554?from=search&seid=524068925455877553",
+        "brief": "乱码乱码乱码啦"
     }
 ]
 nav = [
@@ -60,18 +61,8 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
-    },
-    {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://www.weibo.com/u/6517142916",
         "icon": "gi gi-weibo"
     }
 ]
