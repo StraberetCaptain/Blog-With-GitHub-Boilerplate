@@ -19,13 +19,12 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-# 站点设置
 site_name = "虎抓板2号"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-07-05T00:00-06:00"
-author = "StraberetCaptain"
+author = "StrawberetCaptain"
 email = "taemtoeatjin@gmail.com"
-author_homepage = "https://www.straberrycaptain.com"
+author_homepage = "https://www.strawberrycaptain.com"
 description = "🐯🐹"
 key_words = ['Maverick', '虎抓板', 'blog']
 language = 'zh-CN'
