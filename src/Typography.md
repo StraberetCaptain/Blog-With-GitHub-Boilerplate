@@ -19,7 +19,7 @@ excerpt: 这是一篇示例文章。
 ## Video & Figures
 
 <video id="video" controls="" preload="none" poster="https://tva1.sinaimg.cn/large/007S8ZIlgy1ggg8omnh1uj30b50ceaap.jpg">
-   <source id="mp4" src="http://txycdnwb.miaopai.com/stream/rv0nLTLDgdSZfrFOODRWUlEu8Drzzx401Nb0HQ__.mp4?ssig=fd594dfacb5e30f1a99db2c8616b3b2f&time_stamp=1593947457787 " type="video/mp4">
+   <source id="mp4" src="http://gslb.miaopai.com/stream/rv0nLTLDgdSZfrFOODRWUlEu8Drzzx401Nb0HQ__.mp4" type="video/mp4">
  </video>
  
  ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggg8jk1jhwj30qo0go0zr.jpg)
