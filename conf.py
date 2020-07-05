@@ -46,9 +46,9 @@ external_links = [
         "brief": "popi2252588"
     },
     {
-        "name": "有问必答的回复",
+        "name": "箱子的回复",
         "url": "https://m.weibo.cn/6517142916/4522875904286610",
-        "brief": "在这里"
+        "brief": "有问必答(●´∀｀●)ﾉ"
     }
 ]
 nav = [
