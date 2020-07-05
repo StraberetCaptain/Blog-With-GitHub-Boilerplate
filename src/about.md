@@ -14,7 +14,3 @@ tags:
 ## Contact
 
 Email: taemtoeatjin@gmail.com
-
-Weibo：[虎抓板](https://www.weibo.com/u/6517142916)
-
-Bilibili：[乱码乱码乱码啦](https://space.bilibili.com/1761554?from=search&seid=524068925455877553)
