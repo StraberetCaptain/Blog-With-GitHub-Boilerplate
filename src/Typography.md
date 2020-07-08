@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 偶遇合集
-slug: typography
+slug: encountertaejin
 date: 2020-07-08 06:01
 status: publish
 author: 虎抓板
