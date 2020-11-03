@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Fanfic】Blood & Peonies
+title: 【Fanfic/G】Blood & Peonies
 slug: Blood&Peonies
 date: 2020-11-03 06:01
 status: publish
