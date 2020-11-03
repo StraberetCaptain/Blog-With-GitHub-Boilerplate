@@ -40,9 +40,9 @@ external_links = [
         "brief": "乱码乱码乱码啦"
     },
     {
-        "name": "有求必应箱",
-        "url": "http://www.popiask.cn/8Btjjn",
-        "brief": "popi2252588"
+        "name": "有求必应箱（11.03更新）",
+        "url": "https://www.pomeet.com/A3Gw3myc",
+        "brief": "POME"
     },
     {
         "name": "箱子的回复",
